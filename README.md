@@ -74,4 +74,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the program to implement a T flipflop using verilog and validating their functionality using their functional tables is successfully completed.
